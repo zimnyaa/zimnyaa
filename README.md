@@ -1,4 +1,6 @@
-A Red Team Operator's / AppSec PT journey to writing public code.
+> https://tishina.in
+
+a red team operator's journey to writing public code.
 ```
 NtProtectVirtualMemory(RW) ->
 	NtWriteVirtualMemory ->
