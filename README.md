@@ -3,6 +3,7 @@
 a red team operator's journey to writing public code.
 
 recent gists:
+- active-directory/[adcs-lab](https://gist.github.com/zimnyaa/b08d016e13163c52bc2cd7a42ebe9abb)
 - active-directory/[krbrelay-lpe](https://gist.github.com/zimnyaa/d7a5328f9c1e3775135756449590e667)
 - active-directory/[adcs-unpac](https://gist.github.com/zimnyaa/11b2960db1020019a1f3301bf02605c6)
 - execution/[hidewindow](https://gist.github.com/zimnyaa/1101d7c2dc4474c9e022accf6dcc4aad)
