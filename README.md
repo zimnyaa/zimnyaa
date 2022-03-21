@@ -3,6 +3,7 @@
 a red team operator's journey to writing public code.
 
 recent gists:
+- active-directory/[shadowunpac](https://gist.github.com/zimnyaa/82c045ed5888a00dd0c8bf68d9ba04c3)
 - opsec/[iocpipe](https://gist.github.com/zimnyaa/57f744491192141c6c20b25bf842cbe9)
 - active-directory/[adcs-lab](https://gist.github.com/zimnyaa/b08d016e13163c52bc2cd7a42ebe9abb)
 - active-directory/[krbrelay-lpe](https://gist.github.com/zimnyaa/d7a5328f9c1e3775135756449590e667)
