@@ -3,6 +3,7 @@
 a red team operator's journey to writing public code.
 
 recent gists:
+- active-directory/[pywsus-dhcpv6](https://gist.github.com/zimnyaa/bc5e50a24f7110f2bc09f5439e9551aa)
 - linux/[dump-history](https://gist.github.com/zimnyaa/83a5bfc839effbcb5d0dd29a04d72647)
 - exchange/[peas-gpo](https://gist.github.com/zimnyaa/c4380b0c6a62f8b4946d114aa2e05a7f)
 - active-directory/[shadowunpac](https://gist.github.com/zimnyaa/82c045ed5888a00dd0c8bf68d9ba04c3)
