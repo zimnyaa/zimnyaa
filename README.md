@@ -3,6 +3,7 @@
 a red team operator's journey to writing public code.
 
 recent gists:
+- ops/[check-sliver.py](https://gist.github.com/zimnyaa/7ea35c5c266c99f08063f431be4e5ffc)
 - active-directory/[pywsus-dhcpv6](https://gist.github.com/zimnyaa/bc5e50a24f7110f2bc09f5439e9551aa)
 - linux/[dump-history](https://gist.github.com/zimnyaa/83a5bfc839effbcb5d0dd29a04d72647)
 - exchange/[peas-gpo](https://gist.github.com/zimnyaa/c4380b0c6a62f8b4946d114aa2e05a7f)
