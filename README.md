@@ -3,6 +3,7 @@
 a red team operator's journey to writing public code.
 
 recent gists:
+- ops/[canary-check](https://gist.github.com/zimnyaa/c614c9766e1df12938de200eef07e6b3)
 - ops/[sliver-redir](https://gist.github.com/zimnyaa/21402f7be4e9f6e36b06e3e908c95678)
 - ops/[check-sliver](https://gist.github.com/zimnyaa/7ea35c5c266c99f08063f431be4e5ffc)
 - active-directory/[pywsus-dhcpv6](https://gist.github.com/zimnyaa/bc5e50a24f7110f2bc09f5439e9551aa)
