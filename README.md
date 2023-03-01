@@ -3,6 +3,7 @@
 a red team operator's journey to writing public code.
 
 recent gists:
+- network/[cisco-beacon](https://gist.github.com/zimnyaa/d6b1878d271a8e059ff3ff33619e0055)
 - execution/[SW2_trampolines](https://gist.github.com/zimnyaa/1c108d9bade520023356439618ecba4e)
 - ops/[canary-check](https://gist.github.com/zimnyaa/c614c9766e1df12938de200eef07e6b3)
 - ops/[sliver-redir](https://gist.github.com/zimnyaa/21402f7be4e9f6e36b06e3e908c95678)
