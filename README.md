@@ -3,6 +3,7 @@
 a red team operator's journey to writing public code.
 
 recent gists:
+- execution/[veh.go](https://gist.github.com/zimnyaa/d2d6a7ac8ce4c821be902fde60ca43ec)
 - ops/[sliverbof.py](https://gist.github.com/zimnyaa/4b5ceb41ced9919216698fae6dd7e992)
 - network/[cisco-beacon](https://gist.github.com/zimnyaa/d6b1878d271a8e059ff3ff33619e0055)
 - execution/[SW2_trampolines](https://gist.github.com/zimnyaa/1c108d9bade520023356439618ecba4e)
