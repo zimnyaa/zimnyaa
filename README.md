@@ -3,6 +3,7 @@
 a red team operator's journey to writing public code.
 
 recent gists:
+- execution/[caveman-bof](https://gist.github.com/zimnyaa/c5a06a774255ca087d1453c681a671aa)
 - execution/[rwxscan](https://gist.github.com/zimnyaa/a80063d723bc9f894322ed37bf304b73)
 - execution/[veh.go](https://gist.github.com/zimnyaa/d2d6a7ac8ce4c821be902fde60ca43ec)
 - ops/[sliverbof.py](https://gist.github.com/zimnyaa/4b5ceb41ced9919216698fae6dd7e992)
