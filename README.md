@@ -1,7 +1,5 @@
 #### https://tishina.in
 
-a red team operator's journey to writing public code.
-
 recent gists:
 - execution/[caveman-bof](https://gist.github.com/zimnyaa/c5a06a774255ca087d1453c681a671aa)
 - execution/[rwxscan](https://gist.github.com/zimnyaa/a80063d723bc9f894322ed37bf304b73)
@@ -25,5 +23,3 @@ recent gists:
 - active-directory/[webclient-rbcd](https://gist.github.com/zimnyaa/dcac97f3106e96053a1acb6ca9974e55)
 - active-directory/[vhdx-on-smb-share](https://gist.github.com/zimnyaa/d200686647f3b0297c548aba6dcea1b6)
 - execution/[pyd-executeassembly](https://gist.github.com/zimnyaa/10eca1d805297520c57eb8a7170a4a39)
-
-![language-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zimnyaa&layout=compact&theme=dark)
